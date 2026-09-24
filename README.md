@@ -24,7 +24,7 @@ asyncio-playwright/
 ├── main.py                 # script principal
 ├── requirements.txt        # dependências do projeto
 ├── README.md               # documentação do projeto
-└── .gitignore              # (se existir no seu ambiente local)
+└── .gitignore              # .gitignore
 ```
 
 ## Funcionalidade principal
